@@ -1,5 +1,5 @@
 # Hexo 一键安装脚本 Windows平台适用
-[![Bitmoe](https://img.shields.io/badge/Powered%20By-Bitmoe-blue.svg)]()
+[![Bitmoe](https://img.shields.io/badge/Powered%20By-Bitmoe-blue.svg?style=flat-square)]() [![plateform](https://img.shields.io/badge/Platform-Windows-yellow.svg?style=flat-square)]() [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA-yellowgreen.svg)]()
 
 >仅测试过Windows7平台
 
