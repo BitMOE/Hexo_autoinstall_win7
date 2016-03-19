@@ -13,7 +13,7 @@
   
 下载地址：
 
-  一键安装配置脚本  在线版
+ [一键安装配置脚本  在线版](http://7xr7nq.com1.z0.glb.clouddn.com/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E8%84%9A%E6%9C%AC_%E5%9C%A8%E7%BA%BF%E7%89%88.rar)
   
-  一键安装配置脚本  离线版(伪)
+ [一键安装配置脚本  离线版(伪)](http://pan.baidu.com/s/1o74nV9w)
   
