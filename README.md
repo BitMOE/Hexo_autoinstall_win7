@@ -1,0 +1,1 @@
+# Hexo_autoinstall_win7
